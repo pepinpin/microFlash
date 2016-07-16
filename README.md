@@ -1,3 +1,5 @@
+![GitHub Logo](/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
+
 # microFlash (µFlash)
 very simple light torch for Android devices (phones and tablets)
 
