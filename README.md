@@ -3,7 +3,7 @@
 # microFlash (µFlash)
 very simple light torch for Android devices (phones and tablets)
 
-Available Google Play market :
+Available on Google Play :
 [µFlash](https://play.google.com/store/apps/details?id=net.biospherecorp.microflash)
 
 ### Features :
